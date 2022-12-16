@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.0",
     "vue": "^3.2.45"
   },
   "devDependencies": {
+    "@vitejs/plugin-legacy": "^3.0.1",
     "@vitejs/plugin-vue": "^4.0.0",
     "typescript": "^4.9.3",
     "vite": "^4.0.0",
